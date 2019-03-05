@@ -1,0 +1,2 @@
+on boot
+    mkdir /dev/cpuset/affinityctrl 0775 system system

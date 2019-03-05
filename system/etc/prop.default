@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2018年 10月 11日 星期四 17:11:28 CST
+ro.bootimage.build.date.utc=1539249088
+ro.bootimage.build.fingerprint=Meizu/sdm710/sdm710:8.1.0/OPM1.171019.026/1537501340:user/release-keys
+persist.sys.usb.config=none
+ro.recovery.matrix.ver=VER_20180718_00
